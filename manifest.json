@@ -1,6 +1,6 @@
 {
-    "name": "new_project",
-    "short_name": "new_project",
+    "name": "flutter_web_aplication",
+    "short_name": "flutter_web_aplication",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
