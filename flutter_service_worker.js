@@ -28,7 +28,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "78567dab5ac70c074a3165b041de727a
 "assets/assets/images/Logo_reka.png": "11f6febca61324d8c542dd8d824ef6bf",
 "assets/assets/images/Okladka_1.jpg": "73c5f1d72eaa60251d8c66e0a1f2de58",
 "assets/assets/images/Okladka_2.jpg": "d0c91dffa0a9824303eb59008064a56f",
-"assets/assets/images/Okladka_3.png": "7329ff3a0234b3b69dfa623a2fdc48a2",
+"assets/assets/images/Okladka_3.png": "48aae884483cc124463b83126f7f3dd9",
 "assets/assets/images/Podpis_fioletowy.png": "b767194f98097e370cd79cc9141e1c04",
 "assets/assets/images/STRONA.png": "178f1a2c1b3db89b2cc5b7b86ca5f0e9",
 "assets/FontManifest.json": "0495e2075a055257e612a1e19d9ea13a",
@@ -52,9 +52,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "78567dab5ac70c074a3165b041de727a
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "bd7f78e04237d487502ec63a49784157",
-"/": "bd7f78e04237d487502ec63a49784157",
-"main.dart.js": "8869942ac0c882793e4d05f99078aae3",
+"index.html": "a0562bf0dc164d29d75ef4d85a671bb4",
+"/": "a0562bf0dc164d29d75ef4d85a671bb4",
+"main.dart.js": "17c8d1859e386104592ccbaf558b7271",
 "manifest.json": "8a937b1206d9b348bc2d218aec9bc321",
 "version.json": "6df0c8bc33d6ac8ac42f7afcee181fc6"};
 // The application shell files that are downloaded before a service worker can
